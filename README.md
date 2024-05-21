@@ -24,7 +24,7 @@ In the UI, the store manager will ask questions in natural language, and the sys
 1. Clone this repository to your local machine using:
    
 ```bash
-  git clone https://github.com/priyadse/GenAI_Practice.git
+  git clone https://github.com/priyadse/GenAI_E2E_Example_Practice.git
 ```
 
 2. Install the required dependencies using pip: (switch version based on your local system requirements and adjust dependencies accordingly)
